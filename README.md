@@ -1,7 +1,9 @@
 # PimpMyDrive
 
+> Thanks [FoxP](https://github.com/FoxP) for pimping my drive!
+
 ## About
-Windows tool to set custom icons and labels for fixed, USB / removable and network drives with `autorun.inf` file.
+Windows tool to set custom icons and labels for fixed, USB / removable and network drives with [`autorun.inf`](https://en.wikipedia.org/wiki/Autorun.inf) file.
 
 ![](PimpMyDrive/ressources/pictures/demo.gif)
 
@@ -16,6 +18,10 @@ Windows tool to set custom icons and labels for fixed, USB / removable and netwo
 - Free, copyleft license
   
 :bulb: Due to Windows cache, you might need to eject your drive then plug it back to see changes.
+
+## Limitations
+
+- Only .ico files are supported for icons, use [PNG-to-ICO](https://github.com/FoxP/PNG-to-ICO] to convert your png, jpg, gif, svg, ...
 
 ## Requirements
 - Microsoft [.NET Framework 4](https://www.microsoft.com/en-US/download/details.aspx?id=17851)
