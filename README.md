@@ -21,7 +21,7 @@ Windows tool to set custom icons and labels for fixed, USB / removable and netwo
 
 ## Limitations
 
-- Only .ico files are supported for icons, use [PNG-to-ICO](https://github.com/FoxP/PNG-to-ICO] to convert your png, jpg, gif, svg, ...
+- Only .ico files are supported for icons, use [PNG-to-ICO](https://github.com/FoxP/PNG-to-ICO) to convert your png, jpg, gif, svg, ...
 
 ## Requirements
 - Microsoft [.NET Framework 4](https://www.microsoft.com/en-US/download/details.aspx?id=17851)
